@@ -1,23 +1,10 @@
 <h1 align="center"> Cascadia - DevNet </h1>
 
-<h1 align="center"> Neden Cascadi node'u kuruyorum? </h1>
-
-> Uzun bir süredir Cascadia DevNet'te, [Burada](https://twitter.com/Ruesandora0/status/1592480840512311299?s=20) paylaşmıştım, kontrol edin.
-
-> Yakında Cascadia incentivize testnete geçiş yapacak, ben şahsen katılacağım.
-
-> Yakında geçiş yapacağı ve kısa süreceği için, validatör rolünü almak içini kurdum, başka nedeni yok.
-
-> Topluluk kanalları: [Duyuru kanalım](https://t.me/RuesAnnouncement) - [Sohbet kanalı](https://t.me/RuesChat) - [Cascadia Discord](https://discord.gg/cascadia)
-
-> İhtiyaç olabilecek yardımcı komutlar [Linki](https://github.com/ruesandora/Cascadia/blob/main/yard%C4%B1mc%C4%B1_komutlar.md) ve [Cascadia Platformu](https://align.cascadia.foundation/)
 
 ## <h1 align="center"> Donanım </h1>
 > Sunucu temin edemiyorsanız ve para vermek istemiyorsanız [Hetzner $20](https://hetzner.cloud/?ref=gIFAhUnYYjD3) veriyor.
 ```
 # Hetzner'den 3 GPU 4 RAM sunucuya kurdum, sıkıntısız çalışıyor. 
-# 3 dolarlık sunucu dahi kaldırır tahminim, ben yinede 7$ olanı kullandım.
-# Sunucuyu beğenmezsen kapatıp yenisini açabilirsin, hetznerde saatlik ücret var, aylık yok. Sanırım bir kaç saat kullanmaya da bir şey almıyor.
 ```
 ![image](https://github.com/ruesandora/Cascadia/assets/101149671/a15c7404-3bab-4b79-8bfa-cc0aad56be1c)
 
