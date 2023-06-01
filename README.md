@@ -1,8 +1,6 @@
 <h1 align="center"> Cascadia - DevNet </h1>
 
-
-## <h1 align="center"> Donanım </h1>
-> Sunucu temin edemiyorsanız ve para vermek istemiyorsanız [Hetzner $20](https://hetzner.cloud/?ref=gIFAhUnYYjD3) veriyor.
+> Bu node'u hetznerin verdiği kredi ile ücretsiz bir şekilde kurabilirsiniz [Hetzner $20](https://hetzner.cloud/?ref=gIFAhUnYYjD3) veriyor.
 
 <img src="cascadia_token.jpg" >
 
