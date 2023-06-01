@@ -152,7 +152,7 @@ systemctl restart cascadiad && journalctl -u cascadiad -f -o cat
 ```sh
 # Node'u ctrl c ile durdurabilir tekrar bu komutla izleyebilirsiniz
 journalctl -u cascadiad -f -o cat
-# [Explorer Linki](https://validator.cascadia.foundation/validators/cascadiavaloper1s03cy478zv9w4sf9hkwl8dlvx82ncsxayrwmgj) Güncel blok 622k, 1 saate eşleşir tahminim.
+# [Explorer Linki]([https://validator.cascadia.foundation/validators/cascadiavaloper1s03cy478zv9w4sf9hkwl8dlvx82ncsxayrwmgj](https://validator.cascadia.foundation/blocks))
 ```
 
 <h1 align="center"> Eşleşirken hata alırsanız </h1>
@@ -179,11 +179,11 @@ curl localhost:${CASCADIA_PORT}657/status
 
 ```sh
 # Cüzdan oluşturma
-cascadiad keys add rues
-# rues kısmına wallet isminizi girin ve kaydedin bilgilerinizi.
+cascadiad keys add pickles
+# pickles kısmına wallet isminizi girin ve kaydedin bilgilerinizi.
 
 # Recover yapmak isterseniz
-cascadiad keys add rues --recover
+cascadiad keys add pickles --recover
 # Cüzdan bilgileriniz ile faucetten token alın, discorda mevcut.
 ```
 ```sh 
@@ -219,6 +219,3 @@ cascadiad tx staking create-validator \
 # Validatör oluşturduktan sonra discord-validatör kanallarına explorer'dan validatorünüzün linkini atın ve rolü alın.
 ```
 
-> İhtiyaç olabilecek yardımcı komutlar [linki](https://github.com/ruesandora/Cascadia/blob/main/yard%C4%B1mc%C4%B1_komutlar.md)
-
-> Bu repoları forklayın - yıldızlayın github profiliniz boş durmasın.
