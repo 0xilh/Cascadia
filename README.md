@@ -6,8 +6,7 @@
 ```
 # Hetzner'den 3 GPU 4 RAM sunucuya kurdum, sıkıntısız çalışıyor. 
 ```
-![image](https://github.com/ruesandora/Cascadia/assets/101149671/a15c7404-3bab-4b79-8bfa-cc0aad56be1c)
-<img src="https://camo.githubusercontent.com/4b45df847e049fd8d5752c9b3575049c7caeda6cb2fe11155c6d9949089e43fa/68747470733a2f2f692e6962622e636f2f713070324664772f696d6167652e706e67" alt="image" border="0" data-canonical-src="https://i.ibb.co/q0p2Fdw/image.png" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/4b45df847e049fd8d5752c9b3575049c7caeda6cb2fe11155c6d9949089e43fa/68747470733a2f2f692e6962622e636f2f713070324664772f696d6167652e706e67" >
 
 ```sh
 # Sunucumuzu güncelleyelim
