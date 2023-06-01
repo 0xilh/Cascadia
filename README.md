@@ -4,7 +4,7 @@
 ## <h1 align="center"> Donanım </h1>
 > Sunucu temin edemiyorsanız ve para vermek istemiyorsanız [Hetzner $20](https://hetzner.cloud/?ref=gIFAhUnYYjD3) veriyor.
 ```
-# Hetzner'den 3 GPU 4 RAM sunucuya kurdum, sıkıntısız çalışıyor. 
+
 ```
 <img src="https://camo.githubusercontent.com/4b45df847e049fd8d5752c9b3575049c7caeda6cb2fe11155c6d9949089e43fa/68747470733a2f2f692e6962622e636f2f713070324664772f696d6167652e706e67" >
 
